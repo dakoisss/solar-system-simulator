@@ -1,0 +1,5 @@
+# Made With ❤️ By Dakoi
+.venv/
+__pycache__/
+*.py[cod]
+captura_*.png
